@@ -1,4 +1,4 @@
-# Selection-Statements_Exercise-01
+# Selection Statements Exercise 01
 
 - #### Fork and clone the project
 - #### Complete all of the TODOs
